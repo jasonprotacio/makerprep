@@ -1,1 +1,1 @@
-Testing commit.
+// This is me updating my JS file and organizing git dir
